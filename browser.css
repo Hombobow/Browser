@@ -1,0 +1,12 @@
+.box {
+   background-color: pink;
+   display: flex;
+   justify-content: center;
+}
+
+
+/* #search_box {
+}
+
+#search_button {
+} */
